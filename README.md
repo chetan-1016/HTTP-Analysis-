@@ -1,0 +1,1 @@
+The HTTPS Analysis tool helps users inspect and analyze HTTPS headers & security headers, determining server technology, vulnerability scan, and ensuring a detailed understanding of security configurations.
